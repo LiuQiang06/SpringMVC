@@ -30,10 +30,6 @@ public class EchoController {
         System.out.println("我是test分支 二次提交");
     }
 
-    public void test2() {
-        System.out.println("我是test分支 二次提交");
-    }
-
     public void test3() {
         System.out.println("我是test分支 第三次修改，但没有提交");
     }
