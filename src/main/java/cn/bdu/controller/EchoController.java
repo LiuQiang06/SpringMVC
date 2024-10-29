@@ -19,7 +19,7 @@ public class EchoController {
     }
 
     public void method(){
-        System.out.println("我是main主干");
+        System.out.println("我是main主干 我修改了你");
     }
 
     public void test() {
@@ -28,6 +28,14 @@ public class EchoController {
 
     public void test2() {
         System.out.println("我是test分支 二次提交");
+    }
+
+    public void test2() {
+        System.out.println("我是test分支 二次提交");
+    }
+
+    public void test3() {
+        System.out.println("我是test分支 第三次修改，但没有提交");
     }
 
 }
