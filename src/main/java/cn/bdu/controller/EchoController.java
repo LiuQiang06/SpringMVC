@@ -22,4 +22,8 @@ public class EchoController {
         System.out.println("我是main主干");
     }
 
+    public void test() {
+        System.out.println("我是test分支");
+    }
+
 }
