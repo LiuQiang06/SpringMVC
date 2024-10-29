@@ -17,4 +17,9 @@ public class EchoController {
         model.addAttribute("msg", msg);
         return "echo";
     }
+
+    public void method(){
+        System.out.println("我在main主干中修改了");
+    }
+
 }
