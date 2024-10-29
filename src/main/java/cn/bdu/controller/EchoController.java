@@ -19,7 +19,7 @@ public class EchoController {
     }
 
     public void method(){
-        System.out.println("我在main主干中修改了");
+        System.out.println("我是main主干");
     }
 
 }
